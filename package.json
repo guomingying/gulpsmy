@@ -1,0 +1,24 @@
+{
+  "name": "gulpsmy",
+  "version": "1.0.0",
+  "description": "gulpsmy",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guomingying/gulpsmy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guomingying/gulpsmy/issues"
+  },
+  "homepage": "https://github.com/guomingying/gulpsmy#readme",
+  "devDependencies": {
+    "@babel/core": "^7.1.6",
+    "@babel/preset-env": "^7.1.6",
+    "gulp-babel": "^8.0.0"
+  }
+}
